@@ -9,8 +9,8 @@ DURATION:SEPTEMBER TO NOVEMBER
 
 ## Objective:
 * The primary objective of this to-do list application is to help users manage and organize tasks by allowing them to: Create new tasks.  
-Categorize tasks as "personal" or "business".  
-Mark tasks as completed or edit and delete tasks as needed.  
+* Categorize tasks as "personal" or "business".  
+* Mark tasks as completed or edit and delete tasks as needed.  
 
 ## Key Activities:
 * Task Creation: Users input tasks with a description and categorize them as personal or business.  
