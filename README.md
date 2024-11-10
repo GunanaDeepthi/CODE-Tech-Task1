@@ -23,3 +23,5 @@ The application is built using:
 * HTML: For structuring the application layout and setting up key sections (e.g., task list, task creation form).  
 * CSS: For styling and providing visual themes, with customized colors for different task categories (e.g., personal and business).  
 * JavaScript: For functionality, including task addition, category selection, marking tasks as completed, editing tasks, and storing user data using localStorage.  
+## Output link:
+https://gunanadeepthi.github.io/CODE-Tech-Task1/  
