@@ -25,3 +25,6 @@ The application is built using:
 * JavaScript: For functionality, including task addition, category selection, marking tasks as completed, editing tasks, and storing user data using localStorage.  
 ## Output link:
 https://gunanadeepthi.github.io/CODE-Tech-Task1/  
+
+
+![image](https://github.com/user-attachments/assets/cc7a9794-658a-4bec-a619-76aac28661d0)
